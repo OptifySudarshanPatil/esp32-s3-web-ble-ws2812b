@@ -4,7 +4,7 @@ Control a WS2812B LED connected to your ESP32-S3 using Web Bluetooth from any br
 
 ## 🚀 Live Demo
 
-Visit the web app: [GitHub Pages URL will be here after deployment](https://optifysudarshanpatil.github.io/esp32-s3-web-ble-ws2812b/)
+Visit the web app: [WebApp](https://optifysudarshanpatil.github.io/esp32-s3-web-ble-ws2812b/)
 
 ## ✨ Features
 
